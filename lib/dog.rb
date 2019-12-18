@@ -15,5 +15,5 @@ class Dog
   @breed
   end
 end 
-
+Dog.new = Fido 
   
